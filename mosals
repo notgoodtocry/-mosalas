@@ -1,0 +1,9 @@
+a=int(input("vared kon avalin zel ro))
+b=int(input("vared kon dovomin zel ro))
+c=int(input("vared kon sevomin zel ro))
+d=int(input("vared kon ertefa ro))
+f=int(input("vared kon gaede ro))
+mohit= a + b + c
+masahat=d * f / 2
+print("mohite ast", mohit)
+print("masahat ast", masahat)
